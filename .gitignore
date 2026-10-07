@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+pip-wheel-metadata/
+
+# Audio / video generados localmente
+*.wav
+*.mp3
+*.mp4
+*.srt
+
+# Modelos descargados (grandes, no van al repo)
+pretrained_models/
+models/*.bin
+kokoro-v1.0.onnx
+voices-v1.0.bin
+*.onnx
+*.onnx.json
+
+# Builds
+build/
+node_modules/
+dist/
+
+# Sistema / editores
+.DS_Store
+.env
+.idea/
+.vscode/
