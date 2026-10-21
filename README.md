@@ -6,6 +6,9 @@ Una sola página con comandos listos para usar: **síntesis de voz, clonación, 
 
 ---
 
+
+Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 🇪🇸 Español
 
 ### 0. Preparación
